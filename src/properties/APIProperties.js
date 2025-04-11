@@ -1,0 +1,28 @@
+export const api_properties = 
+  {
+    "API_LOGIN" : "/api/v1/user/login/email",
+    "API_REGISTER" : "/api/v1/user/email",
+    "API_ADD_ROLES" : "/api/v1/user/role",
+    "API_GET_USER_ROLES" : "/api/v1/user/roles",
+    "API_GET_USER_PERSONAL_DETAILS": "/api/v1/users/personal_details/gts_user_id/",
+    "API_GET_RECOMMENDED_SERVICES" : "/api/v1/gts_user_recommended_job/gts_user_id/" ,  
+    "API_GET_ACTIVE_SKILLS" : "/api/v1/skills/active",
+    "API_GET_ACTIVE_COMPANIES": "/api/v1/company/active",
+    "API_GET_ACTIVE_SERVICE_TITLES" : "/api/v1/job/title/active",
+    "API_GET_ACTIVE_COUNTRIES" : "/api/v1/countries/active",
+    "API_GET_ACTIVE_DEGREES" : "/api/v1/degree/active",
+    "API_GET_ACTIVE_CITIES" : "/api/v1/city/active",
+    "API_GET_ACTIVE_INSTITUTES" :"/api/v1/institute/active",
+    "API_GET_LANGUAGES_ACTIVE" : "/api/v1/languages/active",
+    "API_GET_ACTIVE_CURRENCIES" : "/api/v1/currencies/active",
+    "API_GET_CITIES_BY_COUNTRY" : "/api/v1/city/country_id/",
+    "API_POST_SERVICE_APPLICATIONS" : "/api/v1/job/applications",
+    "API_GET_SERVICE_APPLICATIONS_BY_APPLIED_ID" : "/api/v1/job/applications/applied_job_id/",
+    "API_GET_SERVICE_APPLICATIONS_BY_APPLICANT_ID" : "/api/v1/job/applications/applicant_id/",
+    "API_GET_SC_SERVICES_ACTIVE" : "/api/v1/employer/job_post/active/employer_id/",
+    "API_SC_SERVICES" :"/api/v1/employer/job_post",
+    "API_GET_ACTIVE_INDUSTRIES" : "/api/v1/industry/active",
+    "API_SEARCH_SERVICES" : "/api/v1/gts_job_search",
+    "API_GET_PROFILE_VIEWER":"/api/v1/user/profile/views/profile_owner_id/",
+    "API_SEND_RESUME": "/api/v1/user/resume/download/send/current/resume"
+  }

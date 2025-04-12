@@ -1,3 +1,4 @@
+
 import React from 'react';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
@@ -17,7 +18,6 @@ import TrainerProfilePage from './pages/trainer/TrainerProfilePage';
 import SCListOfServicesPage from './pages/common/SCListOfServicesPage'
 
 import store from './redux/store';
-
 
 function App() {
   return (

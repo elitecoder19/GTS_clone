@@ -22,7 +22,6 @@
     "mdbreact": "^4.27.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
-    "node-sass": "^4.13.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.2.2",
     "react-bootstrap-range-slider": "^1.2.2",
@@ -46,6 +45,7 @@
     "redux-logger": "^3.0.6",
     "redux-promise-middleware": "^6.1.1",
     "rupiah-format": "^1.0.0",
+    "sass": "^1.86.3",
     "storage": "^0.2.0",
     "styled-components": "^5.1.1",
     "tachyons": "^4.12.0"

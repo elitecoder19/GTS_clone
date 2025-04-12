@@ -9,7 +9,7 @@ import axios from 'axios';
 import {NavLink} from 'reactstrap';
 import { endpoints_properties } from '../../properties/EndPointsProperties.js';
 import { api_properties } from '../../properties/APIProperties.js';
-
+//import api from '../utils/api';
 // reactstrap components
 import {
   Button,
